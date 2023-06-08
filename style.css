@@ -1,0 +1,21 @@
+.calu{
+    width: 500px;
+    height: 600px;
+    background-color: gray;
+    margin-left: 400px;
+}
+#screen{
+    width: 80%;
+    height: 64px;
+    margin-left: 42px;
+    margin-top: 75px;
+    pointer-events: none;
+}
+.btn{
+    width: 68px;
+    height: 45px;
+    margin-left: 45px;
+    margin-top: 45px;
+    background-color: rgb(249, 222, 214);
+
+}
